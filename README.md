@@ -4,6 +4,14 @@
 
 Genshin Impact lyre auto-player written in Python. Keyboard simulation only — no memory reading, no injection.
 
+## 下载
+
+**直接下载：[GenshinLyre-v1.0.zip](https://github.com/yanchihan/GenshinLyre/releases/latest/download/GenshinLyre-v1.0.zip)**
+
+解压后双击 `GenshinLyre.exe` 就能用，不需要安装 Python，也不需要编译。
+
+源码在本仓库里，想自己改代码的话需要 Python 3.10+。
+
 ## 使用
 
 1. 把 `scores` 文件夹放在程序同一目录
@@ -32,12 +40,6 @@ Genshin Impact lyre auto-player written in Python. Keyboard simulation only — 
 
 MIT
 
-## 支持 · Support
+## 支持
 
-觉得好用点个 Star 就行，有问题或想加曲子开个 Issue。
-
-If this saves you some time, a Star is enough. Issues and song requests are welcome.
-
-如果想请我喝杯奶茶：<你的爱发电链接>
-
-Buy me a coffee: <your Afdian link>
+觉得好用点个 Star 就行。有问题或想加曲子，开个 Issue。

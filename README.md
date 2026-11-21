@@ -1,16 +1,10 @@
 # GenshinLyre
 
+[**⬇️ 立即下载**](https://github.com/yanchihan/GenshinLyre/releases/latest/download/GenshinLyre-v1.0.zip)　｜　[**☕ 爱发电支持**](https://ifdian.net/a/yanchihan)
+
 原神风物之诗琴自动演奏工具。只模拟键盘按键，不读取也不修改游戏内存。
 
 Genshin Impact lyre auto-player written in Python. Keyboard simulation only — no memory reading, no injection.
-
-## 下载
-
-**直接下载：[GenshinLyre-v1.0.zip](https://github.com/yanchihan/GenshinLyre/releases/latest/download/GenshinLyre-v1.0.zip)**
-
-解压后双击 `GenshinLyre.exe` 就能用，不需要安装 Python，也不需要编译。
-
-源码在本仓库里，想自己改代码的话需要 Python 3.10+。
 
 ## 使用
 
@@ -42,4 +36,4 @@ MIT
 
 ## 支持
 
-觉得好用点个 Star 就行。有问题或想加曲子，开个 Issue。
+觉得好用点个 Star，或 [请我喝杯奶茶](https://ifdian.net/a/yanchihan)。有问题、想加曲子，开个 Issue 就行。

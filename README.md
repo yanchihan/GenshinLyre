@@ -1,6 +1,6 @@
 # GenshinLyre
 
-[**⬇️ 立即下载**](https://github.com/yanchihan/GenshinLyre/releases/latest/download/GenshinLyre-v1.0.zip)　｜　[**☕ 爱发电支持**](https://ifdian.net/a/yanchihan)
+[**⬇️ 立即下载**](https://github.com/yanchihan/GenshinLyre/releases/latest/download/GenshinLyre-v1.0.zip)　｜　[**☕ 爱发电支持**](https://afdian.com/a/yanchihan)
 
 原神风物之诗琴自动演奏工具。只模拟键盘按键，不读取也不修改游戏内存。
 
@@ -36,4 +36,4 @@ MIT
 
 ## 支持
 
-觉得好用点个 Star，或 [请我喝杯奶茶](https://ifdian.net/a/yanchihan)。有问题、想加曲子，开个 Issue 就行。
+觉得好用点个 Star，或 [请我喝杯奶茶](https://afdian.com/a/yanchihan)。有问题、想加曲子，开个 Issue 就行。

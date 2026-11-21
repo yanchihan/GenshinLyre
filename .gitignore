@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# 本地生成的图标预览
+icon_preview.png
+icon_small.png
+
+# 版权曲谱 / 个人备份，不要提交
+scores/*.mid
+scores/*.midi
+scores/_旧文件/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+
+# 发布包不进仓库
+release/
+**/_旧文件/
+

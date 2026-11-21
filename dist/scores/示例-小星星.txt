@@ -1,0 +1,4 @@
+﻿@title 小星星
+@bpm 100
+C 1 C 1 G 1 G 1 A 1 A 1 G 2
+F 1 F 1 E 1 E 1 D 1 D 1 C 2
